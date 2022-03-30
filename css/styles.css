@@ -1,0 +1,38 @@
+body{
+    height:1500px
+}
+
+.container-fluid{
+    background-color: #6a207f;
+    text-align: center;
+    color: white;
+    height: 10em;
+}
+
+.container-fluid h1{
+    color: white;
+    padding-top: 15px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container-fluid p{
+    color: white;
+    font-size: 30px;
+    padding-bottom: 50em;
+}
+
+.navbar-nav a{
+    color: white;
+    font-size: 20px;
+}
+
+.navbar-nav a:hover{
+color: white;
+padding-top: 10px;
+padding-bottom: 10px; 
+}
+
+.btn{
+    
+}
